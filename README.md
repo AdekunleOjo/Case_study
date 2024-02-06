@@ -12,7 +12,14 @@ Microsoft Excel and Microsoft PowerBi
 The spreadsheet format was converted into excel format and was imported into PowerBi for cleaning and visualization.
 
 # Data Preparation
-# Data cleaning
+## Data cleaning
 The data cleaning was done on power query in PowerBi
+
 several steps was taken during the cleaning of the data
-- Removing duplicates: 146 duplicates were removed from dataset of 65535 rows
+- Removing duplicates: 146 duplicates was found and were removed from dataset of 65535 rows
+- changing of data type: The incorrect columns data types were changed to correct data type
+- Replacing value: numerous incorrect spellings were found and they were replaced with the correct ones.
+
+## Data Visualization
+![visualization](https://github.com/AdekunleOjo/Case_study/assets/55541028/89adc121-91e1-43c4-b691-e0498ddfc535)
+
