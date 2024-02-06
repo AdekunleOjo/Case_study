@@ -20,7 +20,7 @@ several steps was taken during the cleaning of the data
 - changing of data type: The incorrect columns data types were changed to correct data type
 - Replacing value: numerous incorrect spellings were found and they were replaced with the correct ones.
 
-## Data Visualization
+## Data Visualization and Dashboard
 ![visualization](https://github.com/AdekunleOjo/Case_study/assets/55541028/89adc121-91e1-43c4-b691-e0498ddfc535)
 
 ## Uncovered Insights
@@ -39,6 +39,20 @@ Most streamed tracks are Vivid Imagination, Usa, Canada, Mimo, Eledumare
 3. Highest earning months
 
 ![earnings](https://github.com/AdekunleOjo/Case_study/assets/55541028/9165f07b-55b6-44df-b24d-1a26fe41f13c)
+
+Elere gets most of his earnings in May and gets lowest earnings in December
+
+# Recommendation for next releases
+
+- utilizing targeted advertising campaigns on several platforms to reach Elere's existing fanbase and potential listeners.
+- Leveragin social media platforms to create buzz and anticipation for Elere's next release.
+- Exploring collaboration oppotunities with other artists or influencers who have a presence on Elere's top digital platforms.
+
+# Business recommendations
+
+
+
+
 
 
 
