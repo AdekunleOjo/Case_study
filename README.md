@@ -13,3 +13,6 @@ The spreadsheet format was converted into excel format and was imported into Pow
 
 # Data Preparation
 # Data cleaning
+The data cleaning was done on power query in PowerBi
+several steps was taken during the cleaning of the data
+- Removing duplicates: 146 duplicates were removed from dataset of 65535 rows
