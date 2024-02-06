@@ -25,7 +25,9 @@ several steps was taken during the cleaning of the data
 
 ## Uncovered Insights
 1. Top 3 digital platforms
+
 ![digital plt](https://github.com/AdekunleOjo/Case_study/assets/55541028/2a471ab5-1fa7-434b-ae2e-2928a124be8c)
+
 Most people listens to Elere's music on Apple music, Spotify and on Amazon music
 
 
