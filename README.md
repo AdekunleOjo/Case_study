@@ -4,10 +4,11 @@ He did his national youth service at a missionary school where he taught social 
 He is now a Pop Artiste (now known as “Elere” and he is preparing to release an EP which features the following acts with the following titles and themes ).
 
 ## Problem Statement
-The problem statement in this case study was that i encountered difficulties importing the spreadsheet file into PowerBi. This challenge poses obstacles to data analysis and visualization efforts. I addressed this issue by exploring strategies to efficiently import the dataset into PowerBi, such as changing the spreadsheet file to excel format and optimizing te data structures.
+The problem statement in this case study was that i encountered difficulties in importing the spreadsheet file into PowerBi. This challenge poses obstacles to data analysis and visualization efforts. I addressed this issue by exploring strategies to efficiently import the dataset into PowerBi, such as converting the spreadsheet file to excel format and optimizing the data structures.
 
 ## Tool Used
 Microsoft Excel and Microsoft PowerBi
+
 The spreadsheet format was converted into excel format and was imported into PowerBi for cleaning and visualization.
 
 # Data Preparation
