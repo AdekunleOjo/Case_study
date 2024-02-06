@@ -28,6 +28,18 @@ several steps was taken during the cleaning of the data
 
 ![digital plt](https://github.com/AdekunleOjo/Case_study/assets/55541028/2a471ab5-1fa7-434b-ae2e-2928a124be8c)
 
-Most people listens to Elere's music on Apple music, Spotify and on Amazon music
+Most people listens to Elere's music on Apple music, Spotify and on Amazon music.
+
+2. Top 5 Tracks
+
+![Tracks](https://github.com/AdekunleOjo/Case_study/assets/55541028/be0249e5-1c00-4156-b68a-2ad0d816f43f)
+
+Most streamed tracks are Vivid Imagination, Usa, Canada, Mimo, Eledumare
+
+3. Highest earning months
+
+![earnings](https://github.com/AdekunleOjo/Case_study/assets/55541028/9165f07b-55b6-44df-b24d-1a26fe41f13c)
+
+
 
 
