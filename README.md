@@ -16,7 +16,7 @@ The spreadsheet format was converted into excel format and was imported into Pow
 The data cleaning was done on power query in PowerBi
 
 several steps was taken during the cleaning of the data
-- Removing duplicates: 146 duplicates was found and were removed from dataset of 65535 rows
+- Removing duplicates: 146 duplicates were found and were removed from dataset of 65535 rows
 - changing of data type: The incorrect columns data types were changed to correct data type
 - Replacing value: numerous incorrect spellings were found and they were replaced with the correct ones.
 
@@ -45,7 +45,7 @@ Elere gets most of his earnings in May and gets lowest earnings in December
 # Recommendation for next releases
 
 - utilizing targeted advertising campaigns on several platforms to reach Elere's existing fanbase and potential listeners.
-- Leveragin social media platforms to create buzz and anticipation for Elere's next release.
+- Leveraging social media platforms to create buzz and anticipation for Elere's next release.
 - Exploring collaboration oppotunities with other artists or influencers who have a presence on Elere's top digital platforms.
 
 # Overall recommendations
